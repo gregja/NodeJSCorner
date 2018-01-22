@@ -7,8 +7,9 @@ Ce dépôt contient un support de cours au format PDF consacré à l'étude de N
 
 Ce support se situe dans la continuité des supports de cours que je mets à disposition dans les dépôts suivants :
 
-https://github.com/gregja/JSCorner
-https://github.com/gregja/SQLCorner
+- https://github.com/gregja/JSCorner
+- https://github.com/gregja/SQLCorner
+- https://github.com/gregja/PhpCorner
 
 J'ai écrit ce support sur Node.js pour répondre aux besoins d'apprentissage de mes étudiants, à la fois en GRETA, mais aussi dans le cadre des formations en entreprise que je délivre régulièrement.
 
